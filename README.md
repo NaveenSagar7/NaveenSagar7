@@ -1,16 +1,40 @@
-## Hi there 👋
+# 👋 Hi, I'm Naveen
 
-<!--
-**NaveenSagar7/NaveenSagar7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 DevOps Engineer | AWS | Linux | CI/CD | Terraform
 
-Here are some ideas to get you started:
+I’m a Middleware & Cloud Engineer with 4+ years of experience, currently transitioning into a full-time DevOps role.  
+I enjoy building scalable infrastructure, automating deployments, and learning cloud-native technologies.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠 Skills & Tools
+
+### ☁️ Cloud
+- AWS (EC2, S3, IAM, VPC, ALB, ASG, RDS, CloudWatch, Route 53)
+
+### ⚙️ DevOps & CI/CD
+- Git, GitHub
+- AWS CodePipeline, CodeBuild, CodeDeploy
+- Jenkins
+- Docker, Kubernetes (learning)
+
+### 🧱 IaC
+- Terraform (modules, state, backend)
+
+### 🐧 OS & Scripting
+- Linux
+- Bash
+- Python (for automation – learning)
+
+---
+
+## 📌 Current Focus
+- Blue/Green deployments with ALB
+- Terraform real-world projects
+- Python for DevOps automation
+
+---
+
+## 📫 Connect with me
+- LinkedIn: https://linkedin.com/in/your-link
+- GitHub: https://github.com/your-username
